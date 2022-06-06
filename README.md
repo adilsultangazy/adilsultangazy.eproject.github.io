@@ -1,1 +1,1 @@
-# adilsultangazy.eproject.github.io
+Built multiple-step ahead Autoregressive AR(P) and Autoregressive Distributed Lag ARDL(P,R) time-series models predicting Industrial Production Index in Switzerland; did the unit root test using augmented Dickey-Fuller test with 4 lags; used BIC, RMSE and MAE for the estimation of robustness of models.
